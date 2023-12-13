@@ -19,7 +19,7 @@ flutter:
 dependencies:
   flutter:
     sdk: flutter
-  google_sign_in_platform_interface: ^2.4.1
+  google_sign_in_platform_interface: ^2.4.3
 
 dev_dependencies:
   flutter_driver:
