@@ -14,7 +14,7 @@ Enables Google Sign-In in Flutter apps.
   s.source           = { :path => '.' }
   s.source_files     = 'Classes/**/*'
   s.dependency 'FlutterMacOS'
-  s.dependency 'GoogleSignIn', '~> 6.2'
+  s.dependency 'GoogleSignIn', '~> 7.0'
   s.dependency 'GoogleSignInSwiftSupport'
   s.platform = :osx, '10.15'
   s.pod_target_xcconfig = { 'DEFINES_MODULE' => 'YES' }
